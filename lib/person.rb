@@ -2,6 +2,7 @@ def job=(persons_job)
   @job = persons_job
 end
 
-def job
+  def job
   @job
+  end
 end
